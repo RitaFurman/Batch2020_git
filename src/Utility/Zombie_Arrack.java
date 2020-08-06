@@ -6,6 +6,8 @@ import java.util.Scanner;
 public class Zombie_Arrack {
     public static void main(String[] args) {
 
+        //changes here
+
         Scanner input = new Scanner(System.in);
         int[] inhabitants = new int[8];
         for(int i=0; i<inhabitants.length; i++) {
